@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\cc2541\DeviceCC2541.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\msp430f5438\DeviceF5438A.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\msp430g2553\DeviceG2553.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\stm32f030f4\DeviceSTM32F030F4.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
